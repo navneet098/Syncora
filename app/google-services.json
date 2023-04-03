@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "134636056808",
+    "firebase_url": "https://syncora-559c5-default-rtdb.firebaseio.com",
+    "project_id": "syncora-559c5",
+    "storage_bucket": "syncora-559c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134636056808:android:7fab3c7f1a2278e7a4d95d",
+        "android_client_info": {
+          "package_name": "com.example.syncora"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "134636056808-vnsinfc9vkv3a4bnbldifk31u19a14pq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.syncora",
+            "certificate_hash": "0806cae3f6b59af31c681936db2d33c8587c2bd2"
+          }
+        },
+        {
+          "client_id": "134636056808-cvk5lfql5ki0v3oq2ijhkj1bqn2l2gnl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsCGfrchm9WnoLWQPIjOZyHn1rrqjSXaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "134636056808-cvk5lfql5ki0v3oq2ijhkj1bqn2l2gnl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
